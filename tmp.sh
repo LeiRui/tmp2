@@ -39,7 +39,7 @@ eee
 if [ -z "$MAVEN_SKIP_RC" ] ; then
 
   if [ -f /etc/mavenrc ] ; then
-    . /etc/mavenrc
+hhhhh    . /etc/mavenrc
   fi
 
   if [ -f "$HOME/.mavenrc" ] ; then
